@@ -4,7 +4,7 @@
 
 🎯 Goal: Understand the core concepts of investigating and cleaning data before we dive into the code during class.
 
-🎬 [[EDA with Pandas]](https://youtu.be/4-VoOWSFwOQ)
+🎬 Watch this video: [[EDA with Pandas]](https://youtu.be/4-VoOWSFwOQ)
 
 ## **1\. What is EDA? (5 Minutes)**
 
